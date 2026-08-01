@@ -1,25 +1,54 @@
-Welcome to my GitHub profile! I'm Samuele Cipriani, currently a student at Politecnico di Milano with a passion for mathematical engineering, data science, and programming. 
-My GitHub repositories showcase a variety of projects that I have worked on during my academic journey and personal explorations.
+# Samuele Cipriani
 
-🧑‍💻 What You'll Find Here
-- Machine Learning Projects: From hands-on experiments with Python to implementing algorithms for data analysis, you'll find several projects that highlight my work in this area.
-- Programming Challenges: Explore my solutions to various programming challenges, where I apply different languages like C++, Python, and MATLAB to solve complex problems.
-- Web Development: Some repositories contain web-based projects where I've utilized HTML, CSS, JavaScript, and PHP. These projects demonstrate my ability to build functional and responsive web applications.
-- Mathematical Modeling: As a student of mathematical engineering, I frequently apply mathematical concepts to solve real-world problems. Check out my projects that involve numerical simulations and other mathematical models.
+MSc student in Computational Science and Engineering at ETH Zürich, with a background in Mathematical Engineering from Politecnico di Milano.
 
-📁 Repositories
-- Machine Learning with Python: Dive into my machine learning projects, where I explore various algorithms and data science techniques.
-- C++ Algorithm Challenges: Here, I tackle algorithmic problems using C++, showcasing my skills in competitive programming.
-- Web Development Projects: A collection of web projects where I've applied front-end and back-end technologies.
+My interests lie at the intersection of probability, stochastic calculus, optimization, scientific machine learning, mathematical finance, and high-performance computing. I am particularly interested in computationally efficient methods for stochastic systems, optimal control, and partial differential equations.
 
-🔗 Want to Know More?
-For a detailed overview of my background, education, and other experiences, feel free to check out my CV. It contains a comprehensive view of my academic and professional journey.
+## Featured Projects
 
-📬 Contact
-I'm always open to collaboration and discussion. If you'd like to get in touch, you can reach me via email.
+### Fast Stochastic Shortest-Path Solver
 
-Thank you for visiting my profile. I hope you find my work interesting and insightful!
-<!---
-ciprianisamuele/ciprianisamuele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+First-place solution, developed in a two-person team, for the ETH Dynamic Programming and Optimal Control Programming Challenge.
+
+The project addresses a large-scale infinite-horizon stochastic shortest-path problem using sparse transition operators, generalized policy iteration, vectorized Bellman updates, and sparse linear-system policy evaluation.
+
+The implementation achieved the fastest correct runtime in the competition, approximately **2.4× faster than the runner-up**.
+
+### Scientific Machine Learning and Neural Operators
+
+A collection of projects on machine-learning methods for partial differential equations, including:
+
+- Physics-Informed Neural Networks and data-driven PDE solvers;
+- loss-landscape analysis of PINN optimization;
+- Fourier Neural Operators for time-dependent systems;
+- cross-resolution generalization and temporal conditioning;
+- transfer learning under distribution shift;
+- random latent tokenization and dynamic-radius graphs for Geometry-Aware Operator Transformers.
+
+### StudWeb
+
+A full-stack web development project built with **HTML, CSS, JavaScript, PHP, and MySQL**.
+
+The repository showcases the design and implementation of a database-backed web application, including front-end development, server-side logic, data management, and interaction between the different components of the application.
+
+## Areas of Interest
+
+- Stochastic optimal control and dynamic programming
+- Probability and stochastic calculus
+- Scientific machine learning
+- Neural operators and PDE learning
+- Mathematical and computational finance
+- Numerical optimization
+- GPU and high-performance computing
+
+## Technical Skills
+
+**Programming:** Python, C, C++, MATLAB, SQL, PHP, JavaScript  
+**Scientific computing:** NumPy, SciPy, PyTorch, CUDA  
+**Web:** HTML, CSS, JavaScript, PHP, MySQL  
+**Tools:** Git, Linux, Jupyter, LaTeX
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ciprianisamuele/) ·
+[Email](mailto:ciprianiisamuelee@gmail.com)
